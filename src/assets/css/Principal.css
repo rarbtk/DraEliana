@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&family=PT+Serif:wght@700&family=Raleway:wght@600&display=swap");
+
+
+#nuestros-tratamientos {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 3.3rem;
+    text-align: center;
+    margin-top: 10%;
+    border-bottom: 5px solid #e3b0b0 ;
+    color: #4d0011;
+}
